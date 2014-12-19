@@ -101,7 +101,7 @@ function snakeInitialize() {
     }
 
 }
-
+//yolo
 function snakeDraw() {
     for (var index = 0; index < snake.length; index++) {
         context.fillStyle = "red";
